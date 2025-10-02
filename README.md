@@ -84,4 +84,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Keshav Khandelwal & Viraj Mishra
+Amogh Namuduri, Keshav Khandelwal & Viraj Mishra
+
